@@ -7,4 +7,4 @@
 @git commit -m "Add files"
 @git st
 @git push
-::@pause
+@pause
