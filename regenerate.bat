@@ -4,7 +4,7 @@
 @generate_html.py
 @cd %OLDDIR%
 @git add .
-@git commit
+@git commit -m "Add files"
 @git st
 @git push
 ::@pause
